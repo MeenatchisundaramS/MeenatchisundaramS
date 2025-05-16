@@ -36,9 +36,9 @@
   </p>
 
   <h2 style="color: #00ffff;">📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=meenatchisundaram&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MeenatchisundaramS&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenatchisundaram&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeenatchisundaramS&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
 
   <hr style="border: none; border-top: 1px solid #00ffff; width: 80%; margin: 40px auto;" />
 
