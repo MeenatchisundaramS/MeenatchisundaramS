@@ -1,46 +1,51 @@
+<!-- FANCY README BEGINS -->
+<div align="center" style="font-family: 'Segoe UI', sans-serif; padding: 40px; background: radial-gradient(circle, #0f0c29, #302b63, #24243e); color: #00ffee; border-radius: 20px; box-shadow: 0 0 20px #00ffee;">
 
-<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: linear-gradient(135deg, #0f0c29, #302b63, #24243e); color: #ffffff; padding: 40px; border-radius: 20px; box-shadow: 0 0 30px rgba(0,255,255,0.3);">
+  <h1 style="font-size: 3.5em; animation: pulse 2s infinite;">👨‍🚀 Meenatchisundaram S</h1>
+  <h3 style="margin-top: -10px; font-weight: 300; color: #aaa;">Python Automation | Agentic AI | Chrome Extension Developer</h3>
 
-  <h1 style="font-size: 3em; margin-bottom: 10px;">🚀 Meenatchisundaram S</h1>
-  <h3 style="color: #00ffff;">Final Year Engineer | Python Automator | Chrome Extension Innovator</h3>
-
-  <p style="margin-top: 20px;">
+  <p>
     <a href="https://www.linkedin.com/in/meenatchisundaram-s/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blueviolet?style=for-the-badge&logo=linkedin" />
     </a>
     <a href="mailto:smeenatchisundaram14@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+      <img src="https://img.shields.io/badge/Email-Me-orange?style=for-the-badge&logo=gmail" />
     </a>
   </p>
 
-  <hr style="border: none; border-top: 1px solid #00ffff; width: 80%; margin: 30px auto;" />
+  <hr style="width: 60%; border: none; border-top: 1px solid #00ffee; margin: 40px auto;" />
 
-  <h2 style="color: #00ffff;">👨‍💻 Current Project</h2>
-  <p style="font-size: 1.2em;">🔧 <strong>Yaash ClarifAI</strong> – A futuristic Chrome extension that enhances your messages with AI-powered clarity.</p>
+  <h2 style="font-weight: 500; color: #39ff14;">🌟 Featured Project</h2>
+  <p style="font-size: 1.2em; color: #eee;"><strong>Yaash ClarifAI</strong> — A Chrome Extension that smartly enhances any message with AI clarity and intent retention.</p>
 
-  <h2 style="color: #00ffff;">💡 What I Do</h2>
-  <ul style="list-style-type: none; padding: 0; font-size: 1.1em; line-height: 1.8em;">
-    <li>⚙️ Build Python-based automation systems</li>
-    <li>🧠 Experiment with Agentic AI and intelligent workflows</li>
-    <li>🌐 Develop browser extensions and modern web tools</li>
-    <li>📈 Continuously learn and innovate in tech</li>
-  </ul>
-
-  <h2 style="color: #00ffff;">🛠️ Tech Stack</h2>
-  <p>
-    <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=yellow" />
-    <img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript" />
-    <img src="https://img.shields.io/badge/-Selenium-000?style=for-the-badge&logo=selenium" />
-    <img src="https://img.shields.io/badge/-Chrome_Extensions-000?style=for-the-badge&logo=googlechrome" />
-    <img src="https://img.shields.io/badge/-Pillow-000?style=for-the-badge&logo=python" />
+  <h2 style="color: #39ff14;">🧠 What Drives Me</h2>
+  <p style="max-width: 600px; color: #ccc;">
+    I thrive at the intersection of automation, intelligent systems, and user-centric tool development. From building dynamic posters using PIL to developing fully autonomous WhatsApp image generators, my work always revolves around impact and elegance.
   </p>
 
-  <h2 style="color: #00ffff;">📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=MeenatchisundaramS&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <h2 style="color: #39ff14;">⚙️ Skills & Tech</h2>
+  <p>
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript" />
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium" />
+    <img src="https://img.shields.io/badge/Chrome_Extension-5F6368?style=for-the-badge&logo=googlechrome" />
+    <img src="https://img.shields.io/badge/Pillow-E34F26?style=for-the-badge&logo=python" />
+  </p>
+
+  <h2 style="color: #39ff14;">📊 GitHub Activity</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=MeenatchisundaramS&show_icons=true&theme=radical&hide_border=true&border_radius=20" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeenatchisundaramS&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeenatchisundaramS&layout=compact&theme=radical&hide_border=true&border_radius=20" alt="Top Languages" />
 
-  <hr style="border: none; border-top: 1px solid #00ffff; width: 80%; margin: 40px auto;" />
+  <hr style="width: 60%; border: none; border-top: 1px solid #00ffee; margin: 40px auto;" />
 
-  <p style="font-style: italic; color: #cccccc;">“Innovation is seeing what everybody has seen and thinking what nobody has thought.”</p>
+  <p style="font-size: 0.9em; color: #888; font-style: italic;">“Future belongs to those who automate it.”</p>
 </div>
+
+<style>
+@keyframes pulse {
+  0% { text-shadow: 0 0 10px #00ffee; }
+  50% { text-shadow: 0 0 25px #00ffee, 0 0 40px #00ffee; }
+  100% { text-shadow: 0 0 10px #00ffee; }
+}
+</style>
